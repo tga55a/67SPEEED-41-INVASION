@@ -15,7 +15,7 @@ Note: The player recieves a HP boost when their score reaches "67."
 Simply download the entire folder and run "main.java."
 
 # How AI was used
-AI was primarily used for implementing all Java SWING functionality as I don't really know how to use it.
+AI was primarily used for implementing the visuals as my personal knowledge is limited to the CLI.
 it was also used to generate dialogue.
 
 # External Assets Used
