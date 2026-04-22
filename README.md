@@ -16,6 +16,7 @@ Simply download the entire folder and run "main.java."
 
 # How AI was used
 AI was primarily used for implementing all Java SWING functionality as I don't really know how to use it.
+it was also used to generate dialogue.
 
 # External Assets Used
 - "SCP-067" related fan-created gif from Tenor: https://tenor.com/view/scp-067-67-6-7-six-seven-sixty-seven-gif-13940852437921483111
