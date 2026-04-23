@@ -1,12 +1,16 @@
+# Controls (important)
+Controls:
+- PRESS "P" to SKIP the STORY
+- Press "ENTER" to continue the STORY
+- Use "67" to shoot.
+- Move with ARROW KEYS
+
 # What is 67 SPEEED II: 41 INVASION
 41 INVASION is a fast paced arcade shooter where the player steps into the role of 67 KID, who is a lone fighter breaking through waves of an overwhelming number of hostile 41 supporters.
 
 The 67 KID must move, dodge, and shoot through increasingly intensifying waves of the 41 collective.
 
-Controls:
-Use "67" to shoot.
-Move with ARROW KEYS
-"P" to skip dialogue.
+
 
 Note: The player recieves a HP boost when their score reaches "67."
 
