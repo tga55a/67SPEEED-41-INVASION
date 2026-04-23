@@ -105,7 +105,6 @@ public class main extends JPanel implements ActionListener, KeyListener {
         "67 KID: YOU'RE CRAZY IF YOU THINK 41 EVER STOOD A CHANCE!",
         "67 KID: STOP CALLING IT 41 LIKE IT MEANS SOMETHING!",
         "67 KID: YOU’RE ALL JUST NOISE IN MY WAY!",
-        "67 KID: I MOVE DIFFERENT, DEAL WITH IT",
         "67 KID: KEEP SHOOTING, YOU’RE STILL MISSING!",
         "67 KID: LOOK AT YOU ALL PANICKING!",
         "67 KID: I’M NOT YOUR TARGET—I’M YOUR PROBLEM!",
@@ -115,14 +114,12 @@ public class main extends JPanel implements ActionListener, KeyListener {
 
     // --- BOSS DEATH / WAVE WIN LINES ---
     private String[] bossKillLines = {
-        "67 KID: BOSS DOWN. NEXT.",
+        "67 KID: I’M STILL HERE. I’M STILL MOVING.",
+        "67 KID: YOU'RE CRAZY IF YOU THINK 41 EVER STOOD A CHANCE!",
+        "67 KID: YOU’RE ALL JUST NOISE IN MY WAY!",
         "67 KID: 41 KEEPS SENDING BIGGER ONES. KEEP SENDING THEM.",
         "67 KID: YOU THOUGHT THAT WOULD STOP ME?",
-        "67 KID: THAT'S WAVE " + "—GONE. WHAT'S NEXT?",
-        "67 KID: YOU UPGRADED THE WRONG NUMBER.",
-        "67 KID: DELETED. AGAIN.",
         "67 KID: 67 DOESN'T FALL BEHIND BOSSES.",
-        "67 KID: I ATE THAT WHOLE FRAME AND CAME BACK."
     };
 
     // --- ESCALATING WAVE TAUNTS (unhinged, increases per wave) ---
