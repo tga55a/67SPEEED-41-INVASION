@@ -18,6 +18,13 @@ Note: The player recieves a HP boost when their score reaches "67."
 # How to Run 
 Simply download the entire folder and run "main.java."
 
+Run these commands in the CLI.
+```
+javac main.java
+java main.java
+```
+
+
 # How AI was used
 AI was primarily used for implementing the visuals as my personal knowledge is limited to the CLI.
 it was also used to generate dialogue.
